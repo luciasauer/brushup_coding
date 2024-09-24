@@ -1,1 +1,1 @@
-# brushup_coding
+# Coding Challenge
